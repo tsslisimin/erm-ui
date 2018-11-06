@@ -1,0 +1,17 @@
+globals:
+  "FormData": true
+  "FileReader": true
+
+rules:
+  "no-new": "off"
+  "no-tabs": "error"
+  "object-curly-spacing": ["error", "always"]
+  "handle-callback-err": "off"
+  "import/first": "off"
+  "prefer-promise-reject-errors": "off"
+  "no-cond-assign": "off"
+  "no-extend-native": "off"
+  "no-return-assign": "off"
+  "semi": 0
+  "eqeqeq": "off"
+  "no-unused-vars": "off"
